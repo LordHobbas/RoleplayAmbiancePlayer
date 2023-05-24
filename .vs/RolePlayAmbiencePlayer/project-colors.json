@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3bf33d91-3049-4c16-943b-3c38fcf855e2": {
+      "ProjectGuid": "3bf33d91-3049-4c16-943b-3c38fcf855e2",
+      "DisplayName": "RolePlayAmbiencePlayer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

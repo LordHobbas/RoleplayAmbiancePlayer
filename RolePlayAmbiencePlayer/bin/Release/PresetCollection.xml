@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"/>
+<RolePlayAmbience>
+	<Track name="Music">
+		<Volume>80</Volume>
+		<Loop>false</Loop>
+		<Shuffle>true</Shuffle>
+		<PlayList id="tavern chill"/>
+	</Track>
+	<Track name="Weather">
+		<Clip>Resources::Weather\RainIndoor01.wav</Clip>
+		<!-- 'Resources::' is used as a dynamic path to where this applications audio files are stored (if user wants it)-->
+		<!-- Absolute paths (C:\Users\example\RainIndoor01.wav) work as well -->
+	</Track>
+	<Track id="Environment">
+		<Clip>Resources::People\TavernChatter.ogg</Clip>
+	</Track>
+</RolePlayAmbience>

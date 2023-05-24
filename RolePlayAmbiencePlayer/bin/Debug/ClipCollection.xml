@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RolePlayAmbience>
+  <Playlist name="Music - Badlands">
+    <Clip name="Tyranny - Vendrien's Well" path="D:\Games\0 Fluff\Tyranny OST\5 - Vendrien's Well.flac" />
+    <Clip name="Tyranny - The Tiers" path="D:\Games\0 Fluff\Tyranny OST\3 - The Tiers.flac" />
+    <Clip name="Tyranny - Kyros" path="D:\Games\0 Fluff\Tyranny OST\2 - Kyros.flac" />
+    <Clip name="Pillars Of Eternity - Engwith" path="D:\Games\0 Fluff\Soundtrack - FLAC\22 Engwith.flac" />
+    <Clip name="Pillars Of Eternity - Shadow of the Sun" path="D:\Games\0 Fluff\Soundtrack - FLAC\21 Shadow of the Sun.flac" />
+    <Clip name="Pillars Of Eternity - The Endless Paths I" path="D:\Games\0 Fluff\Soundtrack - FLAC\23 The Endless Paths I.flac" />
+    <Clip name="Pillars Of Eternity - The Endless Paths II" path="D:\Games\0 Fluff\Soundtrack - FLAC\24 The Endless Paths II.flac" />
+    <Clip name="Tyranny - Edgering Ruins" path="D:\Games\0 Fluff\Tyranny OST\4 - Edgering Ruins.flac" />
+    <Clip name="Tyranny - Hall of Ascension" path="D:\Games\0 Fluff\Tyranny OST\6 - Hall of Ascension.flac" />
+    <Clip name="Tyranny - Binder of Fate" path="D:\Games\0 Fluff\Tyranny OST\8 - Binder of Fate.flac" />
+    <Clip name="Tyranny - Lethian's Crossing" path="D:\Games\0 Fluff\Tyranny OST\9 - Lethian's Crossing.flac" />
+    <Clip name="Tyranny - Fatebinder" path="D:\Games\0 Fluff\Tyranny OST\18 - Fatebinder.flac" />
+    <Clip name="Tyranny - Blade Grave" path="D:\Games\0 Fluff\Tyranny OST\19 - Blade Grave.flac" />
+    <Clip name="Tyranny - Passage of Culling" path="D:\Games\0 Fluff\Tyranny OST\20 - Passage of Culling.flac" />
+    <Clip name="Tyranny - Sentinal Stand" path="D:\Games\0 Fluff\Tyranny OST\21 - Sentinal Stand.flac" />
+    <Clip name="Tyranny - Twin Rivers" path="D:\Games\0 Fluff\Tyranny OST\22 - Twin Rivers.flac" />
+    <Clip name="Tyranny - Bleden Mark" path="D:\Games\0 Fluff\Tyranny OST\23 - Bleden Mark.flac" />
+    <Clip name="Tyranny - Uncommon Ground" path="D:\Games\0 Fluff\Tyranny OST\24 - Uncommon Ground (Stone Sea Extended).flac" />
+    <Clip name="Bastards Wound - Lullaby" path="D:\Games\0 Fluff\Tyranny OST\31 - (Bastards Wound) Lullaby.flac" />
+    <Clip name="Bastards Wound - Central" path="D:\Games\0 Fluff\Tyranny OST\32 - (Bastards Wound) Central.flac" />
+    <Clip name="Bastards Wound - Refuge" path="D:\Games\0 Fluff\Tyranny OST\33 - (Bastards Wound) Refuge.flac" />
+    <Clip name="Dark Souls III - Premonition" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\03 Yuka Kitamura - Premonition.flac" />
+    <Clip name="Dark Souls III - Firelink Shrine" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\05 Yuka Kitamura - Firelink Shrine.flac" />
+    <Clip name="Dark Souls III - Secret Betrayal" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\07 Yuka Kitamura - Secret Betrayal.flac" />
+    <Clip name="Skyrim - Masser" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Masser.mp3" />
+    <Clip name="Skyrim - Standing Stones" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\Standing Stones.mp3" />
+    <Clip name="Skyrim - A Chance Meeting" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\A Chance Meeting.mp3" />
+    <Clip name="Outer Worlds - Groundbreaker" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\15 Groundbreaker.flac" />
+    <Clip name="Outer Worlds - Live Free, Die Free" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\21 Live Free, Die Free.flac" />
+    <Clip name="Outer Worlds - Monarch" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\23 Monarch.flac" />
+    <Clip name="Outer Worlds - The Hope" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\27 The Hope.flac" />
+    <Clip name="Outer Worlds - Shady Corporate Town..." path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\29 Shady Corporate Town....flac" />
+    <Clip name="Outer Worlds - Tartarus" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\34 Tartarus.flac" />
+    <Clip name="Outer Worlds - Searching for, and Rooting Out, Philosophism" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\42 Searching for, and Rooting Out, Philosophism.flac" />
+    <Clip name="Pathfinder WOTC - Devoured by Darkness" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\07 - Devoured by Darkness.flac" />
+    <Clip name="Pathfinder WOTC - Heart of the Fallen Land" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\13 - Heart of the Fallen Land.flac" />
+    <Clip name="Pathfinder WOTC - Cascade of Fire" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\14 - Cascade of Fire.flac" />
+    <Clip name="Pathfinder WOTC - The Answer Is Yours" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\25 - The Answer Is Yours.flac" />
+  </Playlist>
+  <Playlist name="Music - Battle">
+    <Clip name="Tyranny - Apply the Lash" path="D:\Games\0 Fluff\Tyranny OST\14 - Apply the Lash.flac" />
+    <Clip name="Tyranny - Undying Fatebinder" path="D:\Games\0 Fluff\Tyranny OST\16 - Undying Fatebinder.flac" />
+    <Clip name="Tyranny - Edgering Ruins" path="D:\Games\0 Fluff\Tyranny OST\4 - Edgering Ruins.flac" />
+    <Clip name="Darkest Dungeon - Combat in the Ruins" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\04 Combat in the Ruins.flac" />
+    <Clip name="Darkest Dungeon - Battle in the Warrens" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\06 Battle in the Warrens.flac" />
+    <Clip name="Darkest Dungeon - Return to the Warrens" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\07 Return to the Warrens.flac" />
+    <Clip name="Darkest Dungeon - Mournweald Encounter" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\08 Mournweald Encounter.flac" />
+    <Clip name="Darkest Dungeon - Terror and Madness" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\09 Terror and Madness.flac" />
+    <Clip name="Darkest Dungeon - The Cove Battle Siren (feat. Jennifer Chao)" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\15 The Cove Battle Siren (feat. Jennifer Chao).flac" />
+    <Clip name="Darkest Dungeon - The Final Combat" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\12 The Final Combat.flac" />
+    <Clip name="Darkest Dungeon - Town in Chaos" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\14 Town in Chaos.flac" />
+    <Clip name="Darkest Dungeon - Dark Mitochondria" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\20 Dark Mitochondria.flac" />
+    <Clip name="Darkest Dungeon - The Chloroplast of Cosmarium" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\22 The Chloroplast of Cosmarium.flac" />
+    <Clip name="Deadfire - Her Revenge Swept Across" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\35 Her Revenge Swept Across.flac" />
+    <Clip name="Deadfire - Nor Flame nor Thrusted Blade" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\36 Nor Flame nor Thrusted Blade.flac" />
+    <Clip name="Deadfire - And Evil Turned Away from the Sun" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\37 And Evil Turned Away from the Sun.flac" />
+    <Clip name="Deadfire - Its Crash Could not be Denied" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\38 Its Crash Could not be Denied.flac" />
+    <Clip name="Pillars Of Eternity - The Harbingers Doom" path="D:\Games\0 Fluff\Soundtrack - FLAC\03 The Harbingers Doom.flac" />
+    <Clip name="Pillars Of Eternity - Their Hearts Grew Bold" path="D:\Games\0 Fluff\Soundtrack - FLAC\09 Their Hearts Grew Bold.flac" />
+    <Clip name="Pillars Of Eternity - The Dragon Thrashed and Wailed" path="D:\Games\0 Fluff\Soundtrack - FLAC\20 The Dragon Thrashed and Wailed.flac" />
+    <Clip name="Pillars Of Eternity - Come Soft Winds Of Death" path="D:\Games\0 Fluff\Soundtrack - FLAC\25 Come Soft Winds Of Death.flac" />
+    <Clip name="Tyranny - Apply the Lash" path="D:\Games\0 Fluff\Tyranny OST\14 - Apply the Lash.flac" />
+    <Clip name="Tyranny - Stand Together, Stand Tall" path="D:\Games\0 Fluff\Tyranny OST\15 - Stand Together, Stand Tall.flac" />
+    <Clip name="Tyranny - Undying Fatebinder" path="D:\Games\0 Fluff\Tyranny OST\16 - Undying Fatebinder.flac" />
+    <Clip name="Tyranny - Archons" path="D:\Games\0 Fluff\Tyranny OST\17 - Archons.flac" />
+    <Clip name="Skyrim - Tooth and Claw" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Tooth and Claw.mp3" />
+    <Clip name="Skyrim - Death or Sovngarde" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Death or Sovngarde.mp3" />
+    <Clip name="Skyrim - Steel on Steel" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Steel on Steel.mp3" />
+    <Clip name="Skyrim - One They Fear" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\One They Fear.mp3" />
+    <Clip name="Skyrim - Caught off Guard" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Caught off Guard.mp3" />
+    <Clip name="Skyrim - Blood and Steel" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Blood and Steel.mp3" />
+    <Clip name="Outer Worlds - Phineas Escapes" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\04 Phineas Escapes.flac" />
+    <Clip name="Outer Worlds - Terraforming, One Bullet at a Time" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\25 Terraforming, One Bullet at a Time.flac" />
+    <Clip name="30 Soldiers Earning Their Bonus" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\30 Soldiers Earning Their Bonus.flac" />
+    <Clip name="35 Dissident Hunters" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\35 Dissident Hunters.flac" />
+    <Clip name="Pathfinder WOTC - City to Reclaim" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\08 - City to Reclaim.flac" />
+    <Clip name="Pathfinder WOTC - So Many Hopes to Burn" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\09 - So Many Hopes to Burn.flac" />
+    <Clip name="Pathfinder WOTC - Banner over the Citadel" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\18 - Banner over the Citadel.flac" />
+    <Clip name="Pathfinder WOTC - Mythic Power" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\26 - Mythic Power.flac" />
+    <Clip name="Pathfinder WOTC - Enemy to Be Reckoned With" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\29 - Enemy to Be Reckoned With.flac" />
+    <Clip name="Pathfinder WOTR - Demonic and Divine" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\34 - Demonic and Divine.flac" />
+    <Clip name="Pathfinder WOTC - Ardent Dreams" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\38 - Ardent Dreams.flac" />
+    <Clip name="Pathfinder WOTR - Champions_Of_Abyss" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\45 - Champions_Of_Abyss.flac" />
+    <Clip name="Pathfinder WOTR - Corrupted Caves Battle Theme" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\46 - Corrupted Caves Battle Theme.flac" />
+    <Clip name="Pathfinder WOTR - Greengates Battle Theme" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\47 - Greengates Battle Theme.flac" />
+    <Clip name="Pathfinder WOTR - Corrupted Lands Battle Theme" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\48 - Corrupted Lands Battle Theme.flac" />
+    <Clip name="Pathfinder WOTR - Gray Garrison Battle Theme" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\49 - Gray Garrison Battle Theme.flac" />
+    <Clip name="Pathfinder WOTR - Crusade Battle Theme" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\50 - Crusade Battle Theme.flac" />
+    <Clip name="Pathfinder WOTR - Lost Chapel Battle Theme" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\52 - Lost Chapel Battle Theme.flac" />
+    <Clip name="Pathfinder WOTR - Midnight Fane Battle Theme" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\53 - Midnight Fane Battle Theme.flac" />
+    <Clip name="Pathfinder WOTR - Worldwound Battle Theme" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\54 - Worldwound Battle Theme.flac" />
+    <Clip name="Pathfinder WOTR - Abyss Battle Theme" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\57 - Abyss Battle Theme.flac" />
+    <Clip name="Pathfinder WOTR - Colyphyr Battle Theme" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\58 - Colyphyr Battle Theme.flac" />
+    <Clip name="Pathfinder WOTR - I Promise" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\70 - I Promise.flac" />
+  </Playlist>
+  <Playlist name="Music - Boss Battle">
+    <Clip name="Witcher 3 - Hunt or Be Hunted" path="D:\Games\0 Fluff\Witcher 3\the_witcher_3_wild_hunt_-_official_soundtrack_flac\35 Hunt or Be Hunted.flac" />
+    <Clip name="Witcher 3 - Ladies of the Woods" path="D:\Games\0 Fluff\Witcher 3\the_witcher_3_wild_hunt_-_official_soundtrack_flac\33 Ladies of the Woods.flac" />
+    <Clip name="Witcher 3 - Blood on the Cobblestones" path="D:\Games\0 Fluff\Witcher 3\the_witcher_3_wild_hunt_-_official_soundtrack_flac\28 Blood on the Cobblestones.flac" />
+    <Clip name="Original Sin 2 - Symphony of the Void" path="D:\Games\0 Fluff\divinity_original_sin_2_ost_flac_3_0\divinity_original_sin_2_ost_flac_2_0\03. Symphony of the Void.flac" />
+    <Clip name="Original Sin 2 - The Battle for Divinity" path="D:\Games\0 Fluff\divinity_original_sin_2_ost_flac_3_0\divinity_original_sin_2_ost_flac_2_0\35. The Battle for Divinity.flac" />
+    <Clip name="Dark Souls - Centipede Demon" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls Full Original Soundtrack (FLAC)\06 Motoi Sakuraba - Centipede Demon.flac" />
+    <Clip name="Dark Souls - Great Grey Wolf Sif" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls Full Original Soundtrack (FLAC)\09 Motoi Sakuraba - Great Grey Wolf Sif.flac" />
+    <Clip name="Dark Souls - Seath the Scaleless" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls Full Original Soundtrack (FLAC)\17 Motoi Sakuraba - Seath the Scaleless.flac" />
+    <Clip name="Dark Souls - Sanctuary Guardian" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls Full Original Soundtrack (FLAC)\18 Motoi Sakuraba - Sanctuary Guardian.flac" />
+    <Clip name="Dark Souls - Knight Artorias" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls Full Original Soundtrack (FLAC)\19 Motoi Sakuraba - Knight Artorias.flac" />
+    <Clip name="Dark Souls - Battle of Stoicism" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls Full Original Soundtrack (FLAC)\20 Motoi Sakuraba - Battle of Stoicism.flac" />
+    <Clip name="Dark Souls - Kalameet" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls Full Original Soundtrack (FLAC)\21 Motoi Sakuraba - Kalameet.flac" />
+    <Clip name="Dark Souls III - Yhorm The Giant" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\02 Yuka Kitamura - Yhorm The Giant.flac" />
+    <Clip name="Dark Souls III - Vordt Of The Boreal Valley" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\06 Motoi Sakuraba - Vordt Of The Boreal Valley.flac" />
+    <Clip name="Dark Souls III - Oceiros, The Consumed King" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\06 Yuka Kitamura - Oceiros, The Consumed King.flac" />
+    <Clip name="Dark Souls III - Nameless King" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\09 Motoi Sakuraba - Nameless King.flac" />
+    <Clip name="Dark Souls III - Abyss Watchers" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\10 Yuka Kitamura - Abyss Watchers.flac" />
+    <Clip name="Dark Souls III - Dragonslayer Armour" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\10 Yuka Kitamura - Dragonslayer Armour.flac" />
+    <Clip name="Dark Souls III - High Lord Wolnir" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\11 Motoi Sakuraba - High Lord Wolnir.flac" />
+    <Clip name="Dark Souls III - Lorian, Elder Prince , Lothric, Younger Prince" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\11 Yuka Kitamura - Lorian, Elder Prince , Lothric, Younger Prince.flac" />
+    <Clip name="Dark Souls III - Soul Of Cinder" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls III Complete Original Soundtrack (FLAC)\12 Yuka Kitamura - Soul Of Cinder.flac" />
+    <Clip name="Skyrim - Watch the Skies" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Watch the Skies.mp3" />
+    <Clip name="Pathfinder WOTR - Facing the Faceless Sphinx" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\55 - Facing the Faceless Sphinx.flac" />
+    <Clip name="Pathfinder WOTR - Alushinyrra Battle Theme" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\56 - Alushinyrra Battle Theme.flac" />
+    <Clip name="Pathfinder WOTR - Master of My Own Fate" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\63 - Master of My Own Fate.flac" />
+    <Clip name="Pathfinder WOTR - Lord of the Dead" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\65 - Lord of the Dead.flac" />
+    <Clip name="Pathfinder WOTR - The Hunger Eternal" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\68 - The Hunger Eternal.flac" />
+  </Playlist>
+  <Playlist name="Music - Dungeon crawling">
+    <Clip name="Tyranny - Oldwalls" path="D:\Games\0 Fluff\Tyranny OST\10 - Oldwalls.flac" />
+    <Clip name="Tyranny - Burning Library" path="D:\Games\0 Fluff\Tyranny OST\12 - Burning Library.flac" />
+    <Clip name="Horizon Zero Dawn - A Storm In The West" path="D:\Games\0 Fluff\Horizon Zero Dawn (Original Soundtrack)\A Storm In The West (Part 4 - Secrets Of The Earth).mp3" />
+    <Clip name="Darkest Dungeon - A Brief Respite" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\05 A Brief Respite.flac" />
+    <Clip name="Deadfire - A Gods-Cursed Ruin" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\14 A Gods-Cursed Ruin.flac" />
+    <Clip name="Deadfire - What the Goddess of Death has Touched" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\18 What the Goddess of Death has Touched.flac" />
+    <Clip name="Deadfire - The Truth Only Gets in their Way" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\21 The Truth Only Gets in their Way.flac" />
+    <Clip name="Deadfire - Eothas" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\22 Eothas.flac" />
+    <Clip name="Pillars Of Eternity - Skaen" path="D:\Games\0 Fluff\Soundtrack - FLAC\07 Skean.flac" />
+    <Clip name="Pillars Of Eternity - Brackenbury" path="D:\Games\0 Fluff\Soundtrack - FLAC\13 Brackenbury.flac" />
+    <Clip name="Pillars Of Eternity - The Endless Paths I" path="D:\Games\0 Fluff\Soundtrack - FLAC\23 The Endless Paths I.flac" />
+    <Clip name="Pillars Of Eternity - The Endless Paths II" path="D:\Games\0 Fluff\Soundtrack - FLAC\24 The Endless Paths II.flac" />
+    <Clip name="Bastards Wound - Oldwall" path="D:\Games\0 Fluff\Tyranny OST\29 - (Bastards Wound) Oldwall.flac" />
+    <Clip name="Bastards Wound - Sleepless" path="D:\Games\0 Fluff\Tyranny OST\30 - (Bastards Wound) Sleepless.flac" />
+    <Clip name="Dark Souls II - Dark Chasm of Old (Extended)" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls II Scholar of the First Sin Full Extended Soundtrack (FLAC)\03 Dark Chasm of Old (Extended).flac" />
+    <Clip name="Skyrim - Silent Footsteps" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Silent Footsteps.mp3" />
+    <Clip name="Skyrim - Into Darkness" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\Into Darkness.mp3" />
+    <Clip name="Skyrim - Unbound" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\Unbound.mp3" />
+    <Clip name="Skyrim - Silence Unbroken" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\Silence Unbroken.mp3" />
+    <Clip name="Skyrim - Shadows and Echoes" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Shadows and Echoes.mp3" />
+    <Clip name="Skyrim - Towers and Shadows" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Towers and Shadows.mp3" />
+    <Clip name="Skyrim - Death in the Darkness" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Death in the Darkness.mp3" />
+    <Clip name="Skyrim - Shattered Shields" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Shattered Shields.mp3" />
+    <Clip name="05 Stranger in a Strange Land" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\05 Stranger in a Strange Land.flac" />
+    <Clip name="37 Exploring, but Only During our Breaks" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\37 Exploring, but Only During our Breaks.flac" />
+    <Clip name="38 Bureau of Exploration's Employee of the Month" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\38 Bureau of Exploration's Employee of the Month.flac" />
+    <Clip name="42 Searching for, and Rooting Out, Philosophism" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\42 Searching for, and Rooting Out, Philosophism.flac" />
+    <Clip name="07 - Devoured by Darkness" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\07 - Devoured by Darkness.flac" />
+    <Clip name="12 - Templars of the Ivory Labyrinth" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\12 - Templars of the Ivory Labyrinth.flac" />
+    <Clip name="14 - Cascade of Fire" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\14 - Cascade of Fire.flac" />
+    <Clip name="15 - Know Thy Enemy" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\15 - Know Thy Enemy.flac" />
+    <Clip name="28 - Into the Worldwound" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\28 - Into the Worldwound.flac" />
+    <Clip name="42 - Midnight Isles" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\42 - Midnight Isles.flac" />
+    <Clip name="Pathfinder WOTR - Rasping Rifts" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\43 - Rasping Rifts.flac" />
+  </Playlist>
+  <Playlist name="Music - Neutral">
+    <Clip name="Deadfire - Any Port in a Storm" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\07 Any Port in a Storm.flac" />
+    <Clip name="Deadfire - Mother Ocean will Lead us Safely Home" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\10 Mother Ocean will Lead us Safely Home.flac" />
+    <Clip name="Deadfire - Huana" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\09 Huana.flac" />
+    <Clip name="Deadfire - Prologue" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\02 Prologue.flac" />
+    <Clip name="Deadfire - All Gods" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\04 All Gods.flac" />
+    <Clip name="Deadfire - Character Creation" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\05 Character Creation.flac" />
+    <Clip name="Deadfire - Queen's Berth" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\11 Queen's Berth.flac" />
+    <Clip name="Deadfire - The Brass Citadel" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\12 The Brass Citadel.flac" />
+    <Clip name="Deadfire - Periki's Overlook" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\13 Periki's Overlook.flac" />
+    <Clip name="Deadfire - Arkemyr" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\15 Arkemyr.flac" />
+    <Clip name="Deadfire - The Sacred Stair" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\16 The Sacred Stair.flac" />
+    <Clip name="Deadfire - The Gullet" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\17 The Gullet.flac" />
+    <Clip name="Deadfire - Serpent's Crown" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\19 Serpent's Crown.flac" />
+    <Clip name="Deadfire - Eora Redux" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\24 Eora Redux.flac" />
+    <Clip name="Pillars Of Eternity - Dyrwood" path="D:\Games\0 Fluff\Soundtrack - FLAC\04 Dyrwood.flac" />
+    <Clip name="Pillars Of Eternity - Gilded Vale" path="D:\Games\0 Fluff\Soundtrack - FLAC\05 Gilded Vale.flac" />
+    <Clip name="Pillars Of Eternity - Oldsong" path="D:\Games\0 Fluff\Soundtrack - FLAC\08 Oldsong.flac" />
+    <Clip name="Pillars Of Eternity - Defiance Bay" path="D:\Games\0 Fluff\Soundtrack - FLAC\10 Defiance Bay.flac" />
+    <Clip name="Pillars Of Eternity - Ondras Gift" path="D:\Games\0 Fluff\Soundtrack - FLAC\12 Ondras Gift.flac" />
+    <Clip name="Pillars Of Eternity - Dyrford" path="D:\Games\0 Fluff\Soundtrack - FLAC\15 Dyrford.flac" />
+    <Clip name="Pillars Of Eternity - Elmshore" path="D:\Games\0 Fluff\Soundtrack - FLAC\18 Elmshore.flac" />
+    <Clip name="Pillars Of Eternity - Shadow of the Sun" path="D:\Games\0 Fluff\Soundtrack - FLAC\21 Shadow of the Sun.flac" />
+    <Clip name="Tyranny - Spires" path="D:\Games\0 Fluff\Tyranny OST\7 - Spires.flac" />
+    <Clip name="Tyranny - Pillars in the Sky" path="D:\Games\0 Fluff\Tyranny OST\13 - Pillars in the Sky.flac" />
+    <Clip name="Dark Souls - Firelink Shrine" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls Full Original Soundtrack (FLAC)\04 Motoi Sakuraba - Firelink Shrine.flac" />
+    <Clip name="Skyrim - From Past to Present" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\From Past to Present.mp3" />
+    <Clip name="Skyrim - Ancient Stones" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Ancient Stones.mp3" />
+    <Clip name="Skyrim - The City Gates" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\The City Gates.mp3" />
+    <Clip name="Skyrim - Dragonsreach" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Dragonsreach.mp3" />
+    <Clip name="Skyrim - Under an Ancient Sun" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Under an Ancient Sun.mp3" />
+    <Clip name="Skyrim - Distant Horizons" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Distant Horizons.mp3" />
+    <Clip name="Skyrim - Dawn" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Dawn.mp3" />
+    <Clip name="Skyrim - The Jerall Mountains" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\The Jerall Mountains.mp3" />
+    <Clip name="Skyrim - Secunda" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Secunda.mp3" />
+    <Clip name="Skyrim - Imperial Throne" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD1\Imperial Throne.mp3" />
+    <Clip name="Skyrim - Frostfall" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\Frostfall.mp3" />
+    <Clip name="Skyrim - Kyne's Peace" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\Kyne's Peace.mp3" />
+    <Clip name="Skyrim - Far Horizons" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\Far Horizons.mp3" />
+    <Clip name="Skyrim - The Streets Of Whiterun" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\The Streets Of Whiterun.mp3" />
+    <Clip name="Skyrim - The White River" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\The White River.mp3" />
+    <Clip name="Skyrim - Beneath The Ice" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\Beneath The Ice.mp3" />
+    <Clip name="Skyrim - Tundra" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\Tundra.mp3" />
+    <Clip name="Skyrim - Journey's End" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\Journey's End.mp3" />
+    <Clip name="Skyrim - Aurora" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Aurora.mp3" />
+    <Clip name="Skyrim - Solitude" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Solitude.mp3" />
+    <Clip name="Skyrim - The Gathering Storm" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\The Gathering Storm.mp3" />
+    <Clip name="Skyrim - Sky Above, Voice Within" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Sky Above, Voice Within.mp3" />
+    <Clip name="Skyrim - Wind Guide You" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Wind Guide You.mp3" />
+    <Clip name="Outer Worlds - Left Adrift (Character Creation)" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\03 Left Adrift (Character Creation).flac" />
+    <Clip name="Outer Worlds - Emerald Vale" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\07 Emerald Vale.flac" />
+    <Clip name="Outer Worlds - We're All Counting On You" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\11 We're All Counting On You.flac" />
+    <Clip name="Outer Worlds - Groundbreaker" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\15 Groundbreaker.flac" />
+    <Clip name="Outer Worlds - Stellar Bay" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\16 Stellar Bay.flac" />
+    <Clip name="Outer Worlds - The Unreliable" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\17 The Unreliable.flac" />
+    <Clip name="Outer Worlds - Journey's End (End Slides)" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\18 Journey's End (End Slides).flac" />
+    <Clip name="Outer Worlds - Byzantium" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\24 Byzantium.flac" />
+    <Clip name="Pathfinder WOTR - The Myth Begins" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\02 - The Myth Begins.flac" />
+    <Clip name="Pathfinder WOTR - Demon_s Heresy" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\20 - Demon_s Heresy.flac" />
+    <Clip name="Pathfinder WOTR - Commander_s Citadel" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\24 - Commander_s Citadel.flac" />
+    <Clip name="Pathfinder WOTR - Together" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\32 - Together.flac" />
+    <Clip name="Pathfinder WOTR - Starward Gaze (Song of Elysium)" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\61 - Starward Gaze (Song of Elysium).flac" />
+  </Playlist>
+  <Playlist name="Music - Sparring">
+    <Clip name="Deadfire - Close to Board" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\33 Close to Board.flac" />
+    <Clip name="Deadfire - If Their Bones Sleep" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\34 If Their Bones Sleep.flac" />
+    <Clip name="Deadfire - Rise Again, Rise Again" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\39 Rise Again, Rise Again.flac" />
+  </Playlist>
+  <Playlist name="Music - Tavern">
+    <Clip name="Deadfire - Farmer and the Fox" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\28 Farmer and the Fox .flac" />
+    <Clip name="Deadfire - Skudrinka" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\31 Skudrinka (by Frolich Geschray).flac" />
+    <Clip name="Deadfire - Quant'ay lo mon consirat" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\30 Quant'ay lo mon consirat (by Frolich Geschray).flac" />
+    <Clip name="Deadfire - So spricht das Leben" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\32 So spricht das Leben (by Frolich Geschray).flac" />
+    <Clip name="Deadfire - The Sea and Her Love" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\29 The Sea and Her Love .flac" />
+    <Clip name="Pillars Of Eternity - The Lover Cried Out" path="D:\Games\0 Fluff\Soundtrack - FLAC\06 The Lover Cried Out.flac" />
+    <Clip name="Pillars Of Eternity - The Fox and the Farmer" path="D:\Games\0 Fluff\Soundtrack - FLAC\11 The Fox and the Farmer.flac" />
+    <Clip name="Skyrim - A Winter's Tale" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\A Winter's Tale.mp3" />
+    <Clip name="Skyrim - The Bannered Mare" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\The Bannered Mare.mp3" />
+    <Clip name="Skyrim - Out of the Cold" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Out of the Cold.mp3" />
+    <Clip name="Skyrim - Around the Fire" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD3\Around the Fire.mp3" />
+    <Clip name="Pathfinder WOTR - Ode to the Armored Armadillo" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\71 - Ode to the Armored Armadillo.flac" />
+    <Clip name="Pathfinder WOTR - Half Measure" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\72 - Half Measure.flac" />
+    <Clip name="Pathfinder WOTR - Defender_s Heart" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\73 - Defender_s Heart.flac" />
+    <Clip name="Pathfinder WOTR - A Drink Before the Battle" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\74 - A Drink Before the Battle.flac" />
+  </Playlist>
+  <Playlist name="Music - Tense">
+    <Clip name="Horizon Zero Dawn - Buried Shadow" path="D:\Games\0 Fluff\Horizon Zero Dawn (Original Soundtrack)\Buried Shadow (Part 4 - Secrets Of The Earth).mp3" />
+    <Clip name="Horizon Zero Dawn - Colossal" path="D:\Games\0 Fluff\Horizon Zero Dawn (Original Soundtrack)\Colossal (Part 4 - Secrets Of The Earth).mp3" />
+    <Clip name="Horizon Zero Dawn - Countdown to Zero" path="D:\Games\0 Fluff\Horizon Zero Dawn (Original Soundtrack)\Countdown To Zero (Part 4 - Secrets Of The Earth).mp3" />
+    <Clip name="Darkest Dungeon - Explore the Ruins" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\03 Explore the Ruins.flac" />
+    <Clip name="Darkest Dungeon - A Mocking Thirst" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\17 A Mocking Thirst.flac" />
+    <Clip name="Darkest Dungeon - Forbidden Tannin" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\18 Forbidden Tannin.flac" />
+    <Clip name="Darkest Dungeon - The Blasted Heath" path="D:\Games\0 Fluff\darkest_dungeon_soundtrack_flac\19 The Blasted Heath.flac" />
+    <Clip name="Deadfire - Lie" path="D:\Games\0 Fluff\Pillars of Eternity II Deadfire (Original Soundtrack) - FLAC\06 Lie.flac" />
+    <Clip name="Pillars Of Eternity - Brackenbury" path="D:\Games\0 Fluff\Soundtrack - FLAC\13 Brackenbury.flac" />
+    <Clip name="Pillars Of Eternity - Woedica" path="D:\Games\0 Fluff\Soundtrack - FLAC\16 Woedica.flac" />
+    <Clip name="Tyranny - Edgering Ruins" path="D:\Games\0 Fluff\Tyranny OST\4 - Edgering Ruins.flac" />
+    <Clip name="Dark Souls II - The Pursuer (Extended)" path="D:\Music\RolePlayAmbiencePlayer\Dark Souls II Scholar of the First Sin Full Extended Soundtrack (FLAC)\06 Yuka Kitamura - The Pursuer (Extended).flac" />
+    <Clip name="Skyrim - Night Without Stars" path="D:\Music\RolePlayAmbiencePlayer\Skyrim\CD2\Night Without Stars.mp3" />
+    <Clip name="Outer Wilds - Hope, Forever" path="D:\Music\RolePlayAmbiencePlayer\the_outer_worlds_original_soundtrack_flac\02 Hope, Forever.flac" />
+    <Clip name="Pathfinder WOTR - Searching for Answers" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\10 - Searching for Answers.flac" />
+    <Clip name="Pathfinder WOTR - Path to the Enigma" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\41 - Path to the Enigma.flac" />
+    <Clip name="Pathfinder WOTR - Ivory Labyrinth" path="D:\Music\RolePlayAmbiencePlayer\Pathfinder Wrath of the Righteous\44 - Ivory Labyrinth.flac" />
+  </Playlist>
+  <Folder name="Battle">
+    <Clip name="Medieval Siege" path="D:\Music\RolePlayAmbiencePlayer\Medieval Siege.wav" />
+  </Folder>
+  <Folder name="Indoors">
+    <Clip name="Rain on windows" path="D:\Music\RolePlayAmbiencePlayer\Indoors\rain on windows.wav" />
+    <Clip name="Creepy Dungeon" path="D:\Music\RolePlayAmbiencePlayer\Ambiance\Creepy Dungeon.wav" />
+  </Folder>
+  <Folder name="Outdoors">
+    <Clip name="Wind in Trees" path="C:\Users\Lord Hobbas\Music\RolePlayAmbiencePlayer\Wind in Trees.wav" />
+    <Clip name="Winter Winds" path="C:\Users\Lord Hobbas\Music\RolePlayAmbiencePlayer\Winter Winds.wav" />
+  </Folder>
+  <Folder name="People">
+    <Clip name="Bar - Calm" path="D:\Music\RolePlayAmbiencePlayer\People\Calm bar.wav" />
+    <Clip name="Bar - Full" path="D:\Music\RolePlayAmbiencePlayer\People\Full bar.wav" />
+    <Clip name="Bar - Medium" path="D:\Music\RolePlayAmbiencePlayer\People\Medium Bar.wav" />
+  </Folder>
+  <Folder name="Weather">
+    <Clip name="Rain - Medium" path="D:\Music\RolePlayAmbiencePlayer\Rain Medium.wav" />
+  </Folder>
+</RolePlayAmbience>
